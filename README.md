@@ -27,5 +27,5 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Vivek4224/2_3D_PORTFOLIO.git
+   git clone https://github.com/Vivek4224/1_Vivek_3d_portfolio.git
    ```
